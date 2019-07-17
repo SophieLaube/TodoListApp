@@ -27,7 +27,4 @@ Voici une présentation des histoires d'utilisateurs implémentées:
 <img src = 'https://i.imgur.com/vN1VFBD.gifv' title = 'Visite virtuelle' width = '' alt = "Procédure vidéo" /> 
 
 GIF créé avec [LiceCap] (https://i.imgur.com/vN1VFBD.gifv)
-
-## Notes 
-
-Décrivez les difficultés rencontrées lors de la création de l'application. 
+ 

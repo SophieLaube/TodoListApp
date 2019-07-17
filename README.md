@@ -2,9 +2,9 @@
 
 ** Nom de votre application ** est une application Android qui permet de créer une liste de tâches et une fonctionnalité de gestion de base des tâches à effectuer, notamment l'ajout de nouveaux éléments, la modification et la suppression d'un élément existant. 
 
-Soumis par: ** Sophie Laube MARCELUS**
+Soumis par: ** Votre nom ici ** 
 
-Temps passé: **72** heures au total 
+Temps passé: ** X ** heures passées au total 
 
 ## Histoires d'utilisateurs 
 
@@ -26,9 +26,9 @@ Présentation de la vidéo ##
 
 Voici une présentation des histoires d'utilisateurs implémentées: 
 
-<img src = 'http: //i.imgur.com/link/to/your/gif/file.gif' title = 'Visite virtuelle' width = '' alt = "Procédure vidéo" /> 
+<img src = 'https://i.imgur.com/vN1VFBD.gifv' title = 'Visite virtuelle' width = '' alt = "Procédure vidéo" /> 
 
-GIF créé avec [LiceCap] (http://i.imgur.com/)
+GIF créé avec [LiceCap] (http://www.cockos.com/licecap/). 
 
 ## Notes 
 
